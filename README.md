@@ -62,7 +62,7 @@ These examples use images and matrices included in the directory `vgg_examples`.
 * `Haffine_from_x_MLE_ex.m` Example of using `vgg_Haffine_from_x_MLE`
 * `F_from_Ps_ex.m` Example on computing F from two camera matrices using `vgg_F_from_P`
 * `H_from_image_corr_ex.m` Example on computing H from points using `vgg_H_from_x_lin`
-* `testhomog_vgg.m Example of computing H from two images from a rotating camera. This example also requires `ransacfithomography_vgg.m` and Peter Kovesi's functions (such as `matchbycorrelation.m` and `ransac.m`). See link below.
+* `testhomog_vgg.m` Example of computing H from two images from a rotating camera. This example also requires `ransacfithomography_vgg.m` and Peter Kovesi's functions (such as `matchbycorrelation.m` and `ransac.m`). See link below.
 
 
 
